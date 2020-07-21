@@ -1,0 +1,26 @@
+body{
+    background-color: #333652 !important;
+    color: aliceblue !important;
+}
+
+input{
+    outline: none;
+    color: aliceblue;;
+}
+::placeholder{
+    padding-left: 10px;
+}
+#btn{
+    padding: 5px 30px !important;
+}
+
+#avatar{
+    height: 30vh;
+    border-radius: 50%;
+
+}
+
+#content{
+    margin-top: 8vh;
+}
+
